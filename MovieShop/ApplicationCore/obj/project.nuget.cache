@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EYgT5UTfsePGrtGjzvFlGgbO1N5Ui6rZxIR6D1L2s/hWHpZQhL3PcCBNqvxOuwr685CJ4e+txkc7lGUBKplxfw==",
+  "dgSpecHash": "X46F3EyXcEjps6zpBex2XXZ/mZnmYtcmpIbp2ZNclqGNrCg5f6aDDt9CF3d5PBmCN/5WSLpQ75NN8sPmilQ0eQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
+  "projectFilePath": "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

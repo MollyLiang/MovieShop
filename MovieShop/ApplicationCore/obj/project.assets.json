@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\Jing\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jing\\AppData\\Roaming\\NuGet\\NuGet.Config",

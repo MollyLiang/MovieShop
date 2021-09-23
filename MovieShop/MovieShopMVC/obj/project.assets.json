@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\MovieShopMVC\\MovieShopMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\MovieShopMVC\\MovieShopMVC.csproj",
       "projectName": "MovieShopMVC",
-      "projectPath": "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\MovieShopMVC\\MovieShopMVC.csproj",
+      "projectPath": "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\MovieShopMVC\\MovieShopMVC.csproj",
       "packagesPath": "C:\\Users\\Jing\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\MovieShopMVC\\obj\\",
+      "outputPath": "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\MovieShopMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jing\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\ApplicationCore\\ApplicationCore.csproj"
+            "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\ApplicationCore\\ApplicationCore.csproj"
             },
-            "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

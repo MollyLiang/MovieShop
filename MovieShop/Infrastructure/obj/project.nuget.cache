@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PYQerdvpDNIWjg4nbB0FXMgbc6i7fW+yti7Z/s6fdwoWDEwJ8lctwVnWnkh6Azd74C/mZbeKD41sL8jpn5ZbMw==",
+  "dgSpecHash": "bT27W1nmJZMHJNokS7xg5qyVjkgxzCHHL4DjqruOHVava8rbl9+pkLOjSvK3dyLNhoxMaVpKwwB5/CdcyYaE3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jing\\OneDrive\\Documents\\FullStack\\Web\\MovieShop\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Jing\\Documents\\GitHub\\MovieShop\\MovieShop\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
