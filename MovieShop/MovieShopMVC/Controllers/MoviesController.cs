@@ -8,9 +8,20 @@ namespace MovieShopMVC.Controllers
 {
     public class MoviesController : Controller
     {
-        public IActionResult Index()
+        // readonly type only could be modified in constructor
+        private readonly IMovieService _movieService;
+        public MovieController(IMovieService movieService)
         {
-            return View();
+            _movieService = movieService;
         }
+
+
+        public IActionResult GetTopRevenueMovies()
+        {
+            var movieService = new MovieNoSQLService();
+            var movies = movieService.Get30HighestGrossingMovies();
+            return View(movies);
+        }
+
     }
 }
