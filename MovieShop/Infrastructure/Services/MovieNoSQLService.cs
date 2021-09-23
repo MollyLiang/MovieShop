@@ -22,5 +22,9 @@ namespace Infrastructure.Services
             return movies;
         }
 
+        IEnumerable<MovieCardResponseModel> IMovieService.Get30HighestiGrossingMovies()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

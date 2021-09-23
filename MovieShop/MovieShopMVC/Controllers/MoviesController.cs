@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ApplicationCore.ServiceInterfaces;
+using Infrastructure.Services;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +12,7 @@ namespace MovieShopMVC.Controllers
     {
         // readonly type only could be modified in constructor
         private readonly IMovieService _movieService;
-        public MovieController(IMovieService movieService)
+        public MoviesController(IMovieService movieService)
         {
             _movieService = movieService;
         }
